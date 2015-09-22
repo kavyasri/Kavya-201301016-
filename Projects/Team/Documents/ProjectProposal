@@ -1,1 +1,45 @@
 Upload your project proposal here...
+ 
+ #GrouAbstract of Idea
+A platform to connect drivers who get struck in highways due to unexpected automobile break down and vehicle repair mechanics who are in search for customers.
+
+The problem that is being solved
+1) There are many auto-mechanics in cities and villages near to highways who get very less number of customers.
+2) Drivers in highways experience unexpected automobile break downs and are in need of help as they are unaware of information about automobile mechanics around them.
+3) There isn't any platform as of now, that unites automobile-mechanics around cities.
+
+Our Solution in a nutshell
+An app that enables a medium of communication between drivers-in-need-of-help and auto-mechanics customized and localized based on the location of both the clients.
+Through our platform certified automobile-mechanics offer maintenance services to drivers. Prices and rates are fixed on a common platform based on locations. We also provide delivery of fuel in case of fuel exhaustion.
+Note: Details are not disclosed here. This will be copyrighted and will be extended to a start-up.
+
+Use cases
+tyre punctures
+engine breakdowns
+fuel exhaustion
+faulty battery
+starter motor problems
+clutch cables and spark plug issues
+HT leads ( deteriorated )
+lost keys ( doors get locked with keys inside the car )
+accidents ( Minor damages )
+
+
+The extension Idea
+In case of accidents connect the drivers with insurance agents as well.
+
+
+The Technology Requirements
+
+Design - UML 2.5
+Controller Language - Java / Python ( Preferably Java due to faster processing )
+Web application framework - Spring ( Java ) / Django 1.8 ( Python ) [ To be decided ]
+Database ( SQL-based ) [Initial stage ] - PostGRE sql
+               ( NoSQL based ) [ Later stage ] - Cassandra
+Front end - HTML5, CSS3, Javascript, AJAX, jQuery, Bootstrap , Angular
+App development - Android studio  , Windows app studio, iOS SDK + Xcode 
+
+Note: Deployment to be decided later after necessary research.
+
+ 
+ 
